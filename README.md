@@ -1,1 +1,1 @@
-2.0 atualizado
+Bootcamp DIO - Inscrição, XP e progresso de bootcamp.
